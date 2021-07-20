@@ -1,3 +1,7 @@
 *.pyc
 .history
 venv
+
+# model training data
+checkpoint
+*.ckpt.*
